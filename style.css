@@ -1,3 +1,9 @@
-h3 + p {
+h3 {
     color: blue;
+}
+#color {
+    color: red;
+}
+nav {
+    color: peachpuff;
 }
